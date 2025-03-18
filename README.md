@@ -4,7 +4,7 @@ Welcome to the **Personal Portfolio Template**! 🎨🚀
 This is a modern and fully responsive HTML/CSS template designed for personal portfolios, resumes, and creative showcases. Whether you're a developer, designer, or freelancer, this template provides a clean and professional way to present your work.
 
 ## Live Demo  
-🔗 You can view the live demo of the template at: [Portfolio Template](#https://gh66an.github.io/Personal-Portfolio-HTML-CSS-Template/)
+🔗 You can view the live demo of the template at: [Portfolio Template](https://gh66an.github.io/Personal-Portfolio-HTML-CSS-Template/)
 
 ## Features  
 ✅ Fully responsive design for all screen sizes  
@@ -17,7 +17,7 @@ To use this template, follow these steps:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/YourGitHubUsername/portfolio-template.git
+   git clone https://github.com/gh66an/Personal-Portfolio-HTML-CSS-Template.git
    ```  
 2. **Open `index.html`** in your browser to view the template.  
 
